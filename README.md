@@ -1,4 +1,4 @@
-# 🐦 Twitter Backend Application
+# 🐦 Backend Application
 
 This project is a Twitter-style backend application built with **Node.js**, **Prisma**, **SQLite**, and **JWT** authentication. It's designed as a learning project to explore modern backend concepts like passwordless authentication, middleware handling, user management, and Docker containerization.
 
